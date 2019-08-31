@@ -1,0 +1,358 @@
+[
+  {
+    "id": 0,
+    "title": "Memory Items",
+    "CardStack": [
+      {
+      "id": 0,
+      "Front": "Cabin Altitude Hi",
+      "Back": "Oxygen Masks - Don w/ 100% Oxygen, Crew Communications - Establish",
+      },
+      {
+      "id": 1,
+      "Front": "Engine Abnormal Start",
+      "Back": "Affected Engine: Start/Stop Selector - STOP",
+      },
+      {
+      "id": 2,
+      "Front": "Smoke Evacuation",
+      "Back": "Oxygen Masks: Don Emergency, Crew Communication: Establish, Pressurization Dump: Push In",
+      },
+      {
+      "id": 3,
+      "Front": "Smoke/Fire/Fumes",
+      "Back": "Oxygen Masks: Don with 100% oxygen, Crew Communication: Establish",
+      },
+      {
+      "id": 4,
+      "Front": "Batt 1 (2) Overtemp",
+      "Back": "Associated Battery: OFF",
+      },
+      {
+      "id": 5,
+      "Front": "Jammed Control Wheel - Roll",
+      "Back": "Aileron Disconnect Handle: Pull",
+      },
+      {
+      "id": 6,
+      "Front": "Jammed Control Column - Pitch",
+      "Back": "Elevator Disconnect Handle: Pull",
+      },
+      {
+      "id": 7,
+      "Front": "Pitch Trim Runaway",
+      "Back": "A/P Disconnect Button: Press and Hold, Pitch Trim Sys 1 & 2 Cutout Buttons: Push In",
+      },
+      {
+      "id": 8,
+      "Front": "Roll (Yaw) Trim Runaway",
+      "Back": "A/P Disconnect Button: Press and Hold",
+      },
+      {
+      "id": 9,
+      "Front": "Steering Runaway",
+      "Back": "Steer Disconnect Switch: Press. steer the airplane using differential braking and rudder.",
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Weight Limitations",
+    "CardStack": [
+        {
+        "id": 0,
+        "Front": "Max Ramp Weight - 76 PAX ",
+        "Back": "85,870 lb"
+        },
+        {
+        "id": 1,
+        "Front": "Max Takeoff Weight - 76 PAX",
+        "Back": "85,517 lb"
+        },
+        {
+        "id": 2,
+        "Front": "Max Landing Weight - 76 PAX",
+        "Back": "74,957 lb"
+        },
+        {
+        "id": 3,
+        "Front": "Max Zero Fuel Weight - 76 PAX",
+        "Back": "69,886 lb"
+        },
+        {
+        "id": 4,
+        "Front": "Max Ramp Weight - 70 PAX ",
+        "Back": "85,540 lb"
+        },
+        {
+        "id": 5,
+        "Front": "Max Takeoff Weight - 70 PAX",
+        "Back": "85,098 lb"
+        },
+        {
+        "id": 6,
+        "Front": "Max Landing Weight - 70 PAX",
+        "Back": "74,957 lb"
+        },
+        {
+        "id": 7,
+        "Front": "Max Zero Fuel Weight - 70 PAX",
+        "Back": "69,467 lb"
+        },
+        {
+        "id": 8,
+        "Front": "Min Runway Width",
+        "Back": "100 ft"
+        },
+        {
+        "id": 9,
+        "Front": "Wing Span",
+        "Back": "93 ft 11 in"
+        },
+        {
+        "id": 10,
+        "Front": "Aircraft Length",
+        "Back": "103 ft 11 in"
+        },
+        {
+        "id": 11,
+        "Front": "Tail Height",
+        "Back": "32 ft 4 in"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Operational Limitations",
+      "CardStack": [
+        {
+          "id": 0,
+          "Front": "Max Operational Altitude",
+          "Back": "41,000 ft"
+        },
+        {
+          "id": 1,
+          "Front": "Max Takeoff & Landing Altitude",
+          "Back": "8,000 ft"
+        },
+        {
+          "id": 2,
+          "Front": "Max Temperature Takeoff & Landing",
+          "Back": "ISA + 35 C or 52 F"
+        },
+        {
+          "id": 3,
+          "Front": "Min Temperature Takeoff & Landing",
+          "Back": "-40 C"
+        },
+        {
+          "id": 4,
+          "Front": "Runway Slope Limitation",
+          "Back": "+/- 2%"
+        },
+        {
+          "id": 5,
+          "Front": "Max Tailwind",
+          "Back": "15 kts"
+        },
+        {
+          "id": 6,
+          "Front": "Max Single Pack Operations",
+          "Back": "31,000 ft"
+        },
+        {
+          "id": 7,
+          "Front": "Vmo SL - 8000 ft",
+          "Back": "300"
+        },
+        {
+          "id": 8,
+          "Front": "Vmo 10,000 - Mach Transition",
+          "Back": "320"
+        },
+        {
+          "id": 9,
+          "Front": "Mmo",
+          "Back": "0.82"
+        },
+        {
+          "id": 10,
+          "Front": "VA",
+          "Back": "240"
+        },
+        {
+          "id": 11,
+          "Front": "VLO extend",
+          "Back": "250"
+        },
+        {
+          "id": 12,
+          "Front": "VLO retract",
+          "Back": "3250"
+        },
+        {
+          "id": 13,
+          "Front": "VLE",
+          "Back": "250"
+        },
+        {
+          "id": 14,
+          "Front": "V tire",
+          "Back": "195"
+        },
+        {
+          "id": 15,
+          "Front": "V RAT Deploy Max",
+          "Back": "Vmo/Mmo"
+        },
+        {
+          "id": 16,
+          "Front": "Vmin To provide Electrical Power (RAT)",
+          "Back": "130"
+        },
+        {
+          "id": 17,
+          "Front": "Vb (below 10,000 ft)",
+          "Back": "250"
+        },
+        {
+          "id": 18,
+          "Front": "Vb (10,000 ft and above)",
+          "Back": "270/0.76M (whichever is lower)"
+        },
+        {
+          "id": 19,
+          "Front": "V wiper ops ",
+          "Back": "250"
+        },
+        {
+          "id": 20,
+          "Front": "V window",
+          "Back": "160"
+        },
+        {
+          "id": 21,
+          "Front": "Vfe 1",
+          "Back": "230"
+        },
+        {
+          "id": 22,
+          "Front": "Vfe 2",
+          "Back": "215"
+        },
+        {
+          "id": 23,
+          "Front": "Vfe 3",
+          "Back": "200"
+        },
+        {
+          "id": 24,
+          "Front": "Vfe 4",
+          "Back": "180"
+        },
+        {
+          "id": 25,
+          "Front": "Vfe 5",
+          "Back": "180"
+        },
+        {
+          "id": 26,
+          "Front": "V FULL",
+          "Back": "165"
+        },
+        {
+          "id": 27,
+          "Front": "Dry Max Crosswind",
+          "Back": "38 kt"
+        },
+        {
+          "id": 28,
+          "Front": "Wet Max Crosswind",
+          "Back": "31 kt"
+        },
+        {
+          "id": 29,
+          "Front": "Runway with Compacted Snow Max Crosswind",
+          "Back": "20 kt"
+        },
+        {
+          "id": 30,
+          "Front": "Runway with Standing Water/Slush/Wet Snow/Dry Snow Max Crosswind",
+          "Back": "18 kt"
+        },
+        {
+          "id": 31,
+          "Front": "Runway with Ice Max Crosswind",
+          "Back": "12 kt"
+        },
+        {
+          "id": 32,
+          "Front": "Static Crosswind Max Crosswind",
+          "Back": "30 kts"
+        },
+        {
+          "id": 33,
+          "Front": "Max Altitude for Flaps and Slats to be Extended",
+          "Back": "20,000 ft"
+        },
+        {
+          "id": 34,
+          "Front": "Enroute Altitude for Slats and Flaps",
+          "Back": "Prohibited"
+        },
+        {
+          "id": 35,
+          "Front": "Min Spoiler Speed",
+          "Back": "180 kts"
+        },
+        {
+          "id": 36,
+          "Front": "Flap Setting - Cat II Approach ",
+          "Back": "Mandatory Flaps 5"
+        },
+        {
+          "id": 37,
+          "Front": "Missed Approach Flap Setting - Flaps Full",
+          "Back": "Flaps 4"
+        },
+        {
+          "id": 38,
+          "Front": "Missed Approach Flap Setting - Flaps 5",
+          "Back": "Flaps 2"
+        },
+      ]
+    },
+    {
+      "id": 3,
+      "title": "System Limitations",
+      "CardStack": [
+        {
+          "id": 0,
+          "Front": "Min Battery Voltage",
+          "Back": "22.5 V"
+        },
+        {
+          "id": 1,
+          "Front": "Max Engine Temp",
+          "Back": "815 C"
+        },
+      ]
+    },
+    {
+      "id": 4,
+      "title": "All Limitations",
+      "CardStack": [
+        {
+          "id": 0,
+          "Front": "Min Battery Voltage",
+          "Back": "22.5 V"
+        },
+        {
+          "id": 1,
+          "Front": "Max Engine Temp",
+          "Back": "815 C"
+        },
+      ]
+    }
+  }
+]
